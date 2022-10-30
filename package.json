@@ -1,0 +1,22 @@
+{
+  "name": "pwa-task",
+  "version": "1.0.0",
+  "description": "sample pwa is made",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "author": "Mayank",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
